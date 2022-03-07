@@ -1,0 +1,46 @@
+html{
+    padding: 0px;
+    margin: 0px;
+}
+
+main{
+    display: flex;
+    margin: auto;
+}
+#section_1{
+width: 200px;
+height: 160px;
+background-color: aqua;
+margin-bottom: 60px;
+margin-right: 80px;
+margin-left: 20px;
+padding-right: 10px;
+}
+#section_2{
+    width: 200px;
+height: 160px;
+background-color: aqua;
+margin-bottom: 60px;
+padding-right: 10px;
+}
+#section_3{
+    width: 200px;
+height: 160px;
+background-color: aqua;
+margin-left: 20px;
+padding-right: 10px;
+}
+#section_4{
+    width: 200px;
+height: 160px;
+background-color: aqua;
+padding-right: 10px;
+}
+.precios{
+    text-align: right;
+}
+main{
+    background-color: burlywood;
+    height: 420px;
+    width: 540px;
+}
